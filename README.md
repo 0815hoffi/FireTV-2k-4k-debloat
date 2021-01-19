@@ -9,6 +9,7 @@ For Fire TV Lite without root go to https://github.com/0815hoffi/FireTV-2k-4k-de
 1, Download All.
 
 2, Download Firmware 
+
    2k = https://www.mediafire.com/file/b7dw9i9kqzjmn29/ftvs2k-5.2.7.7.zip/file
    
    4k = 
