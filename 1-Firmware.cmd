@@ -8,8 +8,8 @@ echo.
 echo All data will be lost
 Echo.
 
-set Firmware2k="ftvs2k-5.2.7.6.zip"
-set Firmware4k="ftvs4k_6.2.7.6.zip"
+set Firmware2k="ftvs2k-5.2.7.7.zip"
+set Firmware4k="ftvs4k_6.2.7.7.zip"
 
 
 %_color% 0e
